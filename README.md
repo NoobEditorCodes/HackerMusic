@@ -1,37 +1,58 @@
-<h2 align="centre">🇮🇳𝗗𝗲𝘃𝗶𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 𝗠𝘂𝘀𝗶𝗰🇮🇳</h2>
+# <h2 align="centre"><i><b>💖TECHNO MINDZ MUSIC BOT💝</i></b></h2>
 
-### 𝗗𝗲𝘃𝗶𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 𝗠𝘂𝘀𝗶𝗰 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### Supports Voice Chat
 
-<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://telegra.ph/file/98028a641d5e7935b6786.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
 
+# Introduction
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+Awsome+Music+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+</p>
+</h1>
+
+<a href="https://www.youtube.com/c/TechnoMindz">
+  <img src="https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube" width="170">
+<a href="https://youtu.be/CWObOvzp09g">
+  <img src="https://img.shields.io/badge/MongoDB-red?logo=youtube" width="150">
+
+
+# DEPLOY
+
+## Refer Image Before Deploying 
+## ⚠️Fork The Repo And Deploy Or Unwanted Problems May Occur...
+## After Forking Before Deplying Change The link of your github HERE Below Shown In The Picture 👇👇👇
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/7dfbf86b1da43cc40208f.jpg" width="800"></a></p>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+  
+<details><summary>Deploy From Bot</summary>
+<p>
+<br>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VGVjaG5vTWluZHovQ29tbW9uQm90X0Zvcl9BbGwgbWFzdGVy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
-### ᴄᴏᴍᴍᴀɴᴅs 🛠
-#### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
-- `/play` - reply to youtube url or song file to play song
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
+<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
+  
+## CREATED BY
+ 
+* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
+## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-#### ᴀᴅᴍɪɴs ᴏɴʟʏ
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
+## Thanks to 
 
-
-# ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
-
-[Repl Link](https://t.me/JaiHindChatting) to get pyrogram string session
-
-
-
-### Deploy Method
-
-<p align="center">
-    # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐕𝐢𝐚 𝐓𝐠 𝐁𝐨𝐭 🚀
-
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFrZXNoeXQvSGFja2VyTXVzaWMgbWFpbg"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+ - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To All Of My Subscribers😊
