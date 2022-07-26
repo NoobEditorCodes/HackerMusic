@@ -26,20 +26,13 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+<a href="https://heroku.com/deploy?template=https://github.com/NoobEditorCodes/HackerMusic">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
   
-<details><summary>Deploy From Bot</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VGVjaG5vTWluZHovQ29tbW9uQm90X0Zvcl9BbGwgbWFzdGVy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
