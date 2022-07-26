@@ -12,8 +12,6 @@
 
 <a href="https://www.youtube.com/c/TechnoMindz">
   <img src="https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube" width="170">
-<a href="https://youtu.be/CWObOvzp09g">
-  <img src="https://img.shields.io/badge/MongoDB-red?logo=youtube" width="150">
 
 
 # DEPLOY
